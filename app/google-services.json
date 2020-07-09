@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508547011155",
+    "firebase_url": "https://gastos-e7155.firebaseio.com",
+    "project_id": "gastos-e7155",
+    "storage_bucket": "gastos-e7155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508547011155:android:a037ab167364940d0beca6",
+        "android_client_info": {
+          "package_name": "com.example.gastos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508547011155-lirm9qv99pthe2q985h6cc3tuu211it8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN2VmdqpdTuaGEeW9Lo8DGtVSPpxmeJV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508547011155-lirm9qv99pthe2q985h6cc3tuu211it8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
